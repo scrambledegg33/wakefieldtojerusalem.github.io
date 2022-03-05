@@ -1,9 +1,5 @@
 
-.about-text{
-    display: flex
-    height: 2000px;
-    width: 100%;
-}
+
 .nav-wrapper {
 display: flex
 justify-content: space-between;
