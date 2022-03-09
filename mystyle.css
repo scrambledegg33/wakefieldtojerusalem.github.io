@@ -19,16 +19,12 @@ border-bottom: 1px solid transparent;
         border: 3px solid green ;
     }
     h2 {
-        display: flex;
         text-align: center;
-        color: white;
-         
+        color: white;  
     }
     h3 {
-        display: flex;
         text-align: center;
         color: gold;
-        
     }
     .center {
         display: flex;
