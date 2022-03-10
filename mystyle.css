@@ -17,18 +17,18 @@ border-bottom: 1px solid transparent;
     
     list-style: none;
     margin: 0; 
-    background: deepskyblue;
+    background: rgb(197, 26, 219);
   }
   
   .nav-wrapper a {
     text-decoration: none;
     display: block;
     padding: 1em;
-    color: white;
+    color: rgb(100, 245, 42);
   }
   
   .nav-wrapper a:hover {
-    background: #1565C0;
+    background: rgb(20, 232, 240);
   }
   
   @media all and (max-width: 800px) {
