@@ -1,15 +1,11 @@
 
 
-/*.nav-wrapper {
-display: flex
-justify-content: space-between;
-padding: 38px;
-margin-right: 20px;
-font-size: 1em;
-text-transform: uppercase;
-height: 22px;
-border-bottom: 1px solid transparent;
-}*/
+  .logomiddle{
+    margin: 0 auto;
+    display: block;
+width: 200px;
+height: 200px;
+}
 .nav-wrapper {
     display: flex;
     flex-flow: row wrap;
