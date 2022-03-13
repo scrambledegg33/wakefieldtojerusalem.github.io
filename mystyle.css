@@ -1,10 +1,20 @@
 
-
-  .logomiddle{
+p {
+    text-align:center
+    }
+        
+.multicolortext {
+    background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+            }
+.logomiddle{
     margin: 0 auto;
     display: block;
-width: 200px;
-height: 200px;
+    width: 200px;
+    height: 200px;
 }
 .nav-wrapper {
     display: flex;
