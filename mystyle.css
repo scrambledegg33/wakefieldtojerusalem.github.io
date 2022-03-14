@@ -1,4 +1,8 @@
 
+nav {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
 p {
     text-align:center
     }
@@ -24,6 +28,7 @@ p {
     list-style: none;
     margin: 0; 
     background: rgb(197, 26, 219);
+    
   }
   
   .nav-wrapper a {
@@ -31,6 +36,7 @@ p {
     display: block;
     padding: 1em;
     color: rgb(100, 245, 42);
+    
   }
   
   .nav-wrapper a:hover {
